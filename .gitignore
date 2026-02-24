@@ -1,0 +1,18 @@
+# This file is used/means that this file will be ignored while push this to the github
+
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# .env file
+env/
+.env
+venv/ 
