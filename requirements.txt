@@ -1,1 +1,10 @@
-ipykernel 
+ipykernel>=6.0.0,<7.0.0
+dotenv
+langchain
+langchain_community
+langchain_openai
+langchain_google_genai
+langchain_core
+langgraph
+youtube-search-python # THis are for calling the custom tools
+youtube-search
